@@ -8,7 +8,7 @@ Then the system comprises of four popular Investment Options:
 Scope:
 >	In this system, prediction and recommendation is done which may or may not be accurate as per the real-world scenarios.
 >	For this system, Internet connection is required as most of the data is downloaded in real time. Hence, the system won’t properly function without Internet connectivity.
->	To reduce the processing time, only the popular and trending stocks are considered. But more stocks can be added whenever required.
+>	To reduce the processing time, only the popular and trending stocks are considered.
 
 Objectives:
 >	To make people aware of the various investment options available
