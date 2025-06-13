@@ -28,4 +28,13 @@ Objectives:
 
 ![image](https://github.com/user-attachments/assets/547db480-baa4-4f48-b86e-385be837158f)
 
+![image](https://github.com/user-attachments/assets/243a973f-fe3f-4a24-a84d-a70e88f9e7c3)
+
+![image](https://github.com/user-attachments/assets/84c7769c-4606-4dac-8fb8-2e178e544a91)
+
+![image](https://github.com/user-attachments/assets/773c40ab-9a40-4054-abba-bf2cbbb8361a)
+
+
+
+
 
