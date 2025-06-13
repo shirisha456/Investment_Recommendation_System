@@ -1,5 +1,5 @@
 Some of the trending investment options are Stock Market, Mutual Funds, Gold, Real Estate, etc.
-The system takes input from the user for monthly income, age and occupation. Based on the age, the investment plan is suggested. For people below 18 years of age, the system suggests self-investment options. Because self-investment is the best investment.
+The system takes input from the user for monthly income, age and occupation. Based on the age, the investment plan is suggested. For people below 18 years of age, the system suggests self-investment options.
 Then the system comprises of four popular Investment Options:
 >	Stock Market
 >	Mutual Funds
@@ -9,7 +9,6 @@ Scope:
 >	In this system, prediction and recommendation is done which may or may not be accurate as per the real-world scenarios.
 >	For this system, Internet connection is required as most of the data is downloaded in real time. Hence, the system won’t properly function without Internet connectivity.
 >	To reduce the processing time, only the popular and trending stocks are considered. But more stocks can be added whenever required.
->	As of now, the system is limited to Indian financial market.
 
 Objectives:
 >	To make people aware of the various investment options available
