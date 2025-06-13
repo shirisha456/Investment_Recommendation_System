@@ -1,5 +1,5 @@
 Some of the trending investment options are Stock Market, Mutual Funds, Gold, Real Estate, etc. For a common man, investment options like Stock Market, Mutual Funds, etc. seem a very complicated and confusing task. A common man is very cautious of the money that he/she is investing on anything. But investment is a very smart and efficient way to earn money.
-The system takes input from the user for monthly income, age and occupation. Based on the age, the investment plan is suggested. For people below 18 years of age, the system suggests self-investment options. Because self-investment is the best investment. For people between 18 and 35 years, the plan is suggested based on a popular rule 50-30-20
+The system takes input from the user for monthly income, age and occupation. Based on the age, the investment plan is suggested. For people below 18 years of age, the system suggests self-investment options. Because self-investment is the best investment.
 Then the system comprises of four popular Investment Options:
 >	Stock Market
 >	Mutual Funds
