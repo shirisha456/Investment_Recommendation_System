@@ -1,5 +1,5 @@
 Some of the trending investment options are Stock Market, Mutual Funds, Gold, Real Estate, etc.
-The system takes input from the user for monthly income, age and occupation. Based on the age, the investment plan is suggested. For people below 18 years of age, the system suggests self-investment options.
+The system takes input from the user for monthly income, age and occupation. Based on the age, the investment plan is suggested.
 Then the system comprises of four popular Investment Options:
 >	Stock Market
 >	Mutual Funds
