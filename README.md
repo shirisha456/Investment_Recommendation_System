@@ -25,3 +25,7 @@ Objectives:
 =======
 # Investment_Recommendation_System
 >>>>>>> origin/main
+
+![image](https://github.com/user-attachments/assets/547db480-baa4-4f48-b86e-385be837158f)
+
+
