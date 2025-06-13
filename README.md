@@ -11,7 +11,6 @@ Scope:
 >	To reduce the processing time, only the popular and trending stocks are considered.
 
 Objectives:
->	To make people aware of the various investment options available
 >	To create a system which can suggest the user an investment strategy based on his/her needs
 >	To predict the future values using Machine Learning Algorithms such as LSTM
 >	To predict the future prices for Real Estate using Linear Regression along with providing some suggestions
