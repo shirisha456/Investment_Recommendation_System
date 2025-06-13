@@ -7,7 +7,7 @@ Then the system comprises of four popular Investment Options:
 >	Real Estate Investment
 Scope:
 >	In this system, prediction and recommendation is done which may or may not be accurate as per the real-world scenarios.
->	For this system, Internet connection is required as most of the data is downloaded in real time. Hence, the system won’t properly function without Internet connectivity.
+>	For this system, Internet connection is required as most of the data is downloaded in real time. 
 >	To reduce the processing time, only the popular and trending stocks are considered.
 
 Objectives:
