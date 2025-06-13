@@ -1,0 +1,12 @@
+# Ignore virtual environment folders
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# IDE/workspace settings
+.vscode/
+*.swp
+*.swo
